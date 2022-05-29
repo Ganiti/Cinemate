@@ -19,7 +19,7 @@ Using the command pip install -r requirements.txt, install all the libraries lis
 
 2. Go to https://www.themoviedb.org/ to get your API key.
 
-3. Replace YOUR API KEY in both locations in the static/recommend.js file (lines 15 and 30) and save.
+3. Replace THE API KEY in both locations in the static/recommend.js file (lines 15 and 30) and save.
 4. Using the command python main.py, open your terminal/command prompt and run the file main.py from your project directory.
 5. In the address box of your browser, type http://127.0.0.1:5000/.
 6. And its DONE!
